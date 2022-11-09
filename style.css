@@ -1,0 +1,43 @@
+#inputs {
+    margin: auto;
+    display: table;
+}
+
+.inp {
+    display: grid;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    height: 25px;
+    width: 300px;
+}
+
+#submit {
+    margin: auto;
+    display: table;
+    height: 35px;
+    width: 310px;
+}
+
+.osszSpan {
+    display: table;
+    margin: auto;
+    padding-bottom: 5%;
+}
+
+#osszesito {
+    display: table;
+    margin: auto;
+}
+
+#errors {
+    display: block;
+    margin: auto;
+}
+
+.error {
+    display: table;
+    margin: auto;
+    font-style: italic;
+    color: rgb(245, 226, 226);
+    background-color: rgb(146, 25, 25);
+}
